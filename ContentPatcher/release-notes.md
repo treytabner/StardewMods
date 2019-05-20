@@ -4,6 +4,7 @@
 ## Upcoming release
 * Improved `patch summary` display for local tokens.
 * Improved `config.json` keybind parsing.
+* Improved error when a local file doesn't exist.
 * Fixed patch not reapplied in 1.8 if only `FromFile` value changed.
 
 ## 1.8
